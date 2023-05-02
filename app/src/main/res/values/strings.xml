@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Perusahaan</string>
+    <string-array name="jabatan_spinner">
+        <item>Jendral</item>
+        <item>Letnant</item>
+        <item>Kapten</item>
+        <item>Sersan</item>
+        <item>Prajurit</item>
+        <item>Manager</item>
+        <item>Supervisor</item>
+        <item>Staff</item>
+    </string-array>
+</resources>
