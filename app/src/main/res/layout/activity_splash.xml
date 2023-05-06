@@ -17,7 +17,7 @@
         tools:layout_editor_absoluteY="0dp"/>
 
     <TextView
-        android:id="@+id/ucapan"
+        android:id="@+id/unity_view"
         android:layout_width="368dp"
         android:layout_height="44dp"
         android:layout_marginTop="360dp"

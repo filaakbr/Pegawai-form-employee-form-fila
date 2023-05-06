@@ -7,20 +7,6 @@
     tools:context=".UpdateData">
 
     <EditText
-        android:id="@+id/noHp_baru"
-        android:layout_width="318dp"
-        android:layout_height="50dp"
-        android:layout_marginTop="180dp"
-        android:hint="NIP Baru"
-        android:inputType="number"
-        android:textColor="@color/black"
-        android:textSize="15sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
-
-    <EditText
         android:id="@+id/nama_baru"
         android:layout_width="314dp"
         android:layout_height="54dp"
@@ -33,6 +19,20 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/noHp_baru"
+        android:layout_width="318dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="180dp"
+        android:hint="NIP Baru"
+        android:inputType="number"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <EditText
         android:id="@+id/alamat_baru"
